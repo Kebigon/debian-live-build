@@ -1,2 +1,10 @@
 # KDE Plasma Desktop (+ basic applications)
 kde-plasma-desktop
+
+# Mozilla Firefox 60 ESR
+firefox-esr
+# Plasma Integration
+plasma-browser-integration
+
+# Various utils
+wget
