@@ -1,0 +1,10 @@
+#!/bin/sh
+
+set -e
+
+lb config noauto \
+	--mode debian \
+	--distribution buster \
+	--architectures amd64 \
+	--debian-installer live \
+	"${@}"
