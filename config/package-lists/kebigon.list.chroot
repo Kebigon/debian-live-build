@@ -1,5 +1,7 @@
 # KDE Plasma Desktop (+ basic applications)
 kde-plasma-desktop
+# Application Dashboard
+plasma-widgets-addons
 
 # Japanese IME
 fcitx-mozc
