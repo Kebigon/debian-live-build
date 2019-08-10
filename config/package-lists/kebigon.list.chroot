@@ -19,6 +19,9 @@ libreoffice-gtk3
 # Password Gorilla
 password-gorilla
 
+# Git
+git
+
 # Various utils
 make
 wget
