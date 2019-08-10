@@ -11,5 +11,8 @@ libreoffice-calc
 # Improve LibreOffice look under KDE Plasma
 libreoffice-gtk3
 
+# Password Gorilla
+password-gorilla
+
 # Various utils
 wget
