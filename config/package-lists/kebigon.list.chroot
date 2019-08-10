@@ -1,6 +1,9 @@
 # KDE Plasma Desktop (+ basic applications)
 kde-plasma-desktop
 
+# Japanese IME
+fcitx-mozc
+
 # Mozilla Firefox 60 ESR
 firefox-esr
 # Plasma Integration
