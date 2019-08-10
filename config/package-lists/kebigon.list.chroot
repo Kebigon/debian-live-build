@@ -15,4 +15,5 @@ libreoffice-gtk3
 password-gorilla
 
 # Various utils
+make
 wget
