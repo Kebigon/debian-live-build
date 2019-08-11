@@ -24,8 +24,10 @@ git
 
 # Various utils
 ark
+gwenview
 imagemagick
 jhead
+kcalc
 make
 potrace
 wget
