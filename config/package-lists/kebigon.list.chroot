@@ -24,5 +24,8 @@ git
 
 # Various utils
 ark
+imagemagick
+jhead
 make
+potrace
 wget
