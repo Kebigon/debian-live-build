@@ -23,5 +23,6 @@ password-gorilla
 git
 
 # Various utils
+ark
 make
 wget
