@@ -2115,3 +2115,13 @@ user_pref("dom.workers.enabled", false);
 
 /* END: internal custom pref to test for syntax errors ***/
 user_pref("_user.js.parrot", "SUCCESS: No no he's not dead, he's, he's restin'!");
+
+
+
+/*** MY OVERRIDES ***/
+
+// Fix login to websites not working
+// TODO: remove the 3 preferences below when upgrading to Firefox 68 ESR (already present in the new ghacks user.js)
+user_pref("network.cookie.cookieBehavior", 1);
+user_pref("privacy.clearOnShutdown.cookies", true);
+user_pref("privacy.cpd.cookies", true);
