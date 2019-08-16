@@ -1,10 +1,16 @@
-# KDE Plasma Desktop (+ basic applications)
-kde-plasma-desktop
-# Application Dashboard
-plasma-widgets-addons
+# KDE Plasma Desktop
+plasma-desktop
+# SDDM (default display manager for Plasma 5)
+sddm
 
-# Japanese IME
-fcitx-mozc
+# KDE applications
+ark
+dolphin
+gwenview
+kate
+kcalc
+konsole
+okular
 
 # Mozilla Firefox 60 ESR
 firefox-esr
@@ -23,11 +29,13 @@ password-gorilla
 git
 
 # Various utils
-ark
-gwenview
 imagemagick
 jhead
-kcalc
 make
 potrace
 wget
+
+# Japanese support
+task-japanese
+task-japanese-desktop
+task-japanese-kde-desktop
