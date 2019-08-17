@@ -1,5 +1,6 @@
 # KDE Plasma Desktop
 plasma-desktop
+plasma-nm
 # SDDM (default display manager for Plasma 5)
 sddm
 
