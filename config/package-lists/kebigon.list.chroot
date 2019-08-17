@@ -34,6 +34,7 @@ imagemagick
 jhead
 make
 potrace
+sshfs
 wget
 
 # Japanese support
