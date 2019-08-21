@@ -30,10 +30,7 @@ password-gorilla
 git
 
 # Various utils
-imagemagick
-jhead
 make
-potrace
 sshfs
 wget
 
