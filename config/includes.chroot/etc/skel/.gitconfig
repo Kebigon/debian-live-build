@@ -1,5 +1,7 @@
 [user]
 	name = Kebigon
-	email = framagit@kebigon.xyz
+	email = git@kebigon.xyz
 [core]
 	editor = nano
+[credential]
+	helper = cache
