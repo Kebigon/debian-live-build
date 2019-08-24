@@ -36,5 +36,13 @@ wget
 
 # Japanese support
 task-japanese
-task-japanese-desktop
 task-japanese-kde-desktop
+# content of task-japanese-desktop, but with fcitx-mozc instead of uim-anthy/uim-mozc
+fcitx-mozc
+firefox-esr-l10n-ja
+fonts-ipafont
+fonts-vlgothic
+libreoffice-help-ja
+libreoffice-l10n-ja
+mozc-utils-gui
+poppler-data
