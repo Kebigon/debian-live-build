@@ -7,4 +7,5 @@ lb config noauto \
 	--distribution buster \
 	--architectures amd64 \
 	--debian-installer live \
+	--archive-areas "main non-free contrib" \
 	"${@}"
