@@ -2,7 +2,7 @@
 
 set -e
 
-ANKI_VERSION=2.1.14
+ANKI_VERSION=2.1.15
 
 wget -O - https://apps.ankiweb.net/downloads/current/anki-${ANKI_VERSION}-linux-amd64.tar.bz2 | tar -xj -C /tmp
 cd /tmp/anki-${ANKI_VERSION}-linux-amd64
